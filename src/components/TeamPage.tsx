@@ -4,6 +4,16 @@ import { motion } from "motion/react";
 export function TeamPage() {
   const coordinators = [
     {
+      name: "Dr. Pradeep Mane",
+      role: "Principal at AISSMS IOIT",
+      image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
+      bio: "Leading the institution with vision and dedication, fostering academic excellence and innovation in education.",
+      socials: [
+        { icon: Linkedin, href: "#", label: "LinkedIn" },
+        { icon: Mail, href: "mailto:principal@aissms.edu", label: "Email" }
+      ]
+    },
+    {
       name: "Dr. Prashant Wakhare",
       role: "Teacher Coordinator",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
@@ -122,7 +132,7 @@ export function TeamPage() {
       socials: [
         { icon: Github, href: "#", label: "GitHub" },
         { icon: Linkedin, href: "#", label: "LinkedIn" },
-        { icon: Mail, href: "mailto:vibhutevidyankshini8@gmail.com", label: "Email" }
+        { icon: Mail, href: "mailto:vidyankshini@cybershield.edu", label: "Email" }
       ]
     },
     {
