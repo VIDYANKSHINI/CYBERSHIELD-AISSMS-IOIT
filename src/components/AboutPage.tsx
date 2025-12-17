@@ -86,10 +86,6 @@ export function AboutPage() {
       description: "Insights from industry leaders, security researchers, and alumni working in top tech companies."
     },
     {
-      title: "Hackathons",
-      description: "Participating in and hosting security-focused hackathons to build innovative solutions to real problems."
-    },
-    {
       title: "Mentorship Program",
       description: "Connecting experienced members with newcomers to provide guidance and support throughout their journey."
     }
