@@ -5,7 +5,7 @@ export function Footer() {
   const socialLinks = [
     { icon: Github, href: "#", label: "GitHub" },
     { icon: Twitter, href: "#", label: "Twitter" },
-    { icon: Linkedin, href: "#", label: "LinkedIn" },
+    { icon: Linkedin, href: "https://www.linkedin.com/company/cybershieldioit/posts/?feedView=all", label: "LinkedIn" },
   ];
 
   return (
