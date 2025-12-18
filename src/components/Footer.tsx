@@ -6,7 +6,7 @@ export function Footer() {
     { icon: Github, href: "#", label: "GitHub" },
     { icon: Twitter, href: "#", label: "Twitter" },
     { icon: Linkedin, href: "https://www.linkedin.com/company/cybershieldioit/posts/?feedView=all", label: "LinkedIn" },
-    { icon: MessageCircle, href: "#", label: "Whatsapp" },
+    { icon: MessageCircle, href: "https://whatsapp.com/channel/0029VbAYbLJ0G0XqlfsKDe0b", label: "Whatsapp" },
     
   ];
 
