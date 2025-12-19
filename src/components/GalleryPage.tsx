@@ -46,38 +46,7 @@ export function GalleryPage() {
       image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=600&fit=crop",
       description: "Planning for the new semester"
     },
-    {
-      id: 5,
-      category: "competitions",
-      title: "CTF Championship",
-      date: "August 2024",
-      image: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=800&h=600&fit=crop",
-      description: "Top 10 global ranking achievement"
-    },
-    {
-      id: 6,
-      category: "workshops",
-      title: "Network Security Lab",
-      date: "October 2024",
-      image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
-      description: "Packet analysis and firewall configuration"
-    },
-    {
-      id: 7,
-      category: "events",
-      title: "CyberShield Orientation 2024",
-      date: "September 2024",
-      image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&h=600&fit=crop",
-      description: "Welcome event for new members"
-    },
-    {
-      id: 8,
-      category: "team",
-      title: "Team Building Activity",
-      date: "July 2024",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=600&fit=crop",
-      description: "Strengthening team bonds"
-    },
+  
 
    
 
